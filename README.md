@@ -17,7 +17,7 @@ Install Jupyter Notebook 2.16 and Python 3.13 or above
    Synthetic Data Model: notebook airline-synthetic.ipynb and Dataset 1 (expanded_flight_delays.csv will be created or overwritten, so you don't need upload this data file)
    Real-World Data Model: notebook airline-real.ipynb and Dataset 2 (flights_sample_3m.csv) which is need to be uplaoded.  
 4. Run each cell one by one or Run all 
-5. Clear Cell Output or Clear Outputs of all Cells before Re-run 
+5. Re-run (after Clear Cell Output or Clear Outputs of all Cells)
 
    
 ---
