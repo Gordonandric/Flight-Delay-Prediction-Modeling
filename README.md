@@ -9,11 +9,16 @@ Flight delays affect millions of travelers every year and pose significant chall
 - **Synthetic Dataset**: 50,000 generated samples based on airline attributes (e.g., origin, destination, departure time, gate wait time, and previous flight delays)
 - **Real-World Dataset**: 1.6M+ flight records sourced from [Kaggle.com](https://www.kaggle.com)
 ## Run Environment
-Install Jupyter Notebook 2.16 and Python 3.3 above
+Install Jupyter Notebook 2.16 and Python 3.13 or above
 **Jupyter Notebook**
 1. Run: jupyter notebook
 2. Once Jupyter Server is running, go to the web http://localhost:8888 
-3. Upload the notebook .ipynb and data .csv files
+3. Upload the notebook .ipynb and the associated data .csv files
+   Synthetic Data Model: notebook airline-synthetic.ipynb and Dataset 1 (expanded_flight_delays.csv will be created or overwritten, so you don't need upload this data file)
+   Real-World Data Model: notebook airline-real.ipynb and Dataset 2 (flights_sample_3m.csv) which is need to be uplaoded.  
+4. Run each cell one by one or Run all 
+5. Clear Cell Output or Clear Outputs of all Cells before Re-run 
+
    
 ---
 
