@@ -9,7 +9,7 @@ Flight delays affect millions of travelers every year and pose significant chall
 - **Synthetic Dataset**: 50,000 generated samples based on airline attributes (e.g., origin, destination, departure time, gate wait time, and previous flight delays)
 - **Real-World Dataset**: 1.6M+ flight records sourced from [Kaggle.com](https://www.kaggle.com)
 ## Run Environment
-Install Jupyter Notebook 2.16 and Python 3.13 or above
+Install Jupyter Notebook 2.16, Python 3.13, scikit-learn 1.61.1 and other dependencies.
 **Jupyter Notebook**
 1. Run: jupyter notebook
 2. Once Jupyter Server is running, go to the web http://localhost:8888 
